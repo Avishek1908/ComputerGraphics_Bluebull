@@ -1,0 +1,58 @@
+﻿  Main.cpp
+c:\users\bharg\source\repos\test\test\main.cpp(109): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+c:\users\bharg\source\repos\test\test\main.cpp(229): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(238): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(240): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(286): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(297): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(308): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(320): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(337): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(363): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(370): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(380): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(389): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(396): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(405): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(442): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(443): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bharg\source\repos\test\test\main.cpp(449): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(450): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bharg\source\repos\test\test\main.cpp(456): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(457): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bharg\source\repos\test\test\main.cpp(463): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(464): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bharg\source\repos\test\test\main.cpp(469): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(471): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bharg\source\repos\test\test\main.cpp(476): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(478): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bharg\source\repos\test\test\main.cpp(504): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(505): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(506): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\bharg\source\repos\test\test\main.cpp(558): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(571): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(587): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(588): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'float *'
+c:\users\bharg\source\repos\test\test\main.cpp(595): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(601): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(602): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(637): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(649): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(650): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(651): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(657): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(668): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(675): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(677): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(695): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(697): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bharg\source\repos\test\test\main.cpp(704): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(709): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(711): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bharg\source\repos\test\test\main.cpp(745): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(746): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(747): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(748): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\bharg\source\repos\test\test\main.cpp(755): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bharg\source\repos\test\test\main.cpp(98): warning C4172: returning address of local variable or temporary: norm
+  Test.vcxproj -> C:\Users\bharg\source\repos\Test\Debug\Test.exe
